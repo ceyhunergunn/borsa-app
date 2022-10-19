@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924410916579",
+    "project_id": "hicci-908ae",
+    "storage_bucket": "hicci-908ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924410916579:android:64a665ad9dd4425dc75fd6",
+        "android_client_info": {
+          "package_name": "com.hicci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924410916579-5qt3061dig227v4u5hglptubv5p0ede9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hicci",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "924410916579-lipdr8349e6lq0medgcnjmfs21rqidb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPOyS5EEAD2jdTZsow8mE-zZznqw020AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924410916579-lipdr8349e6lq0medgcnjmfs21rqidb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
